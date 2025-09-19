@@ -1,3 +1,3 @@
 # hello-github-web
 Découverte de l’interface GitHub
-docs: ajoute une phrase dans le README
+Commit directly to the main branch
